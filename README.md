@@ -1,4 +1,5 @@
-[![](https://jitpack.io/v/qiujayen/sticky-layoutmanager.svg)](https://jitpack.io/#qiujayen/sticky-layoutmanager)
+
+[![](https://jitpack.io/v/FazalHussain/sticky-layoutmanager.svg)](https://jitpack.io/#FazalHussain/sticky-layoutmanager)
 
 
 # Sticky-LayoutManager
